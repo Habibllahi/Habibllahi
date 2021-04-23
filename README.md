@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 I am passionate about solving problems programatically. I am professional native Android mobile developer. I am interested in development of decentralized          Android mobile application on the Ethereum network. I have experience and good practices in RESTful web service and desktop application development. I              currently focus my career on fullstack Native Android Mobile development, exploring the blockchain endless posibilities.
+- 👀 I am passionate about solving problems programatically. I am professional native Android mobile and RESTful web service developer. Java and Kotlin programmer,      Currently working as fullstack Android mobile developer and exploring the blockchain technology using Ethereum, Solidity and Web3J among others. I am hobbyist 
+     JavaFX desktop application developer. 
 - 🌱 I’m currently learning Ethereum and Solidity.
 - 💞️ I’m looking to collaborate on Android mobile projects and Web services (monolithic or micro-service based architecture).
 - 📫 How to reach me -- habibllahi3@gmail.com
