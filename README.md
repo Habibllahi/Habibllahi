@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 I am passionate about solving problems programatically. I am professional native Android mobile and RESTful web service developer. Java and Kotlin programmer,      Currently working as fullstack Android mobile developer and exploring the blockchain technology using Ethereum, Solidity and Web3J among others. I am hobbyist 
-     JavaFX desktop application developer. 
-- 🌱 I’m currently learning Ethereum and Solidity.
-- 💞️ I’m looking to collaborate on Android mobile projects and Web services (monolithic or micro-service based architecture).
+- 👀 I am passionate about solving problems programatically. I am professional application and IoT developer. Java, Kotlin, Python, C++ and Solidity programmer.
+-    skillful in RESTful web service development, Native android mobile development, desktop application development and embedded Things development for control,        monitoring and management of systems and flows using the Internet of Things technology. Currently learning blockchain Ethereum thechnology aiming it at              improving data integrity and protection in the Internet of Things space.
+- 💞️ I’m looking to collaborate on IoT based solutions and can contribute in both application programming (RESTful web service, native Android and desktop) and          embedded programming aspect of the development.
 - 📫 How to reach me -- habibllahi3@gmail.com
 
 <!---
