@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 I am passionate about solving problems programatically. I am professional application and IoT developer. Java, Kotlin, Python, C++ and Solidity programmer.
--    skillful in RESTful web service development, Native android mobile development, desktop application development and embedded Things development for control,        monitoring and management of systems and flows using the Internet of Things technology. Currently learning blockchain Ethereum technology aiming it at              improving data integrity and protection in the Internet of Things space.
+- 👀 Passionate about solving problems programatically. I am professional application and IoT developer. Java, Kotlin, Python programmer. Skillful in development of      RESTful web service, native Android mobile, desktop development applications, and embedded Things development for control, monitoring and management of systems       and flows using the Internet of Things technology. Currently learning artificial intelligence aiming it at IoT solutions development.
 - 💞️ I’m looking to collaborate on IoT based solutions and can contribute in both application programming (RESTful web service, native Android and desktop) and          embedded programming aspect of the development.
 - 📫 How to reach me -- habibllahi3@gmail.com
 
