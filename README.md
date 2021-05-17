@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Passionate about solving problems programatically. I am professional software developer with experience in REST webservices and Android application development
-- 💞️ I’m looking to collaborate on projects related to REST web service development and android mobile development.
+- 👀 Passionate about solving problems programatically. I am professional backend developer with experience in REST webservices/microservices development
+- 💞️ I’m looking to collaborate on projects related to REST microservice/web services.
 - 📫 How to reach me -- habibllahi3@gmail.com
 
 <!---
