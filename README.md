@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Passionate about solving problems programatically. I am professional backend developer with experience in REST webservices/microservices development and            hobbyistAndroid native mobile client application developer.
-- 💞️ I’m looking to collaborate on projects related to REST microservice/web services.
+- 👀 Passionate about solving problems programatically. I am fullistack embedded system engineer. I am passionate about development of application software in            controlling systems and flows via hardware. Skillfull in embedded software development, Mobile and desktop software development, RESTful web services                development.
+- 💞️ I’m looking to collaborate on projects related Internet of Things.
 - 📫 How to reach me -- habibllahi3@gmail.com
 
 <!---
