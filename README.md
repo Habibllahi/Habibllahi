@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Professional Android mobile/microservice developer. 
+- 👀 Professional Android mobile & microservice developer. 
 
 - 💞️ I’m looking to collaborate on REST microservice and Android mobile projects.
 
