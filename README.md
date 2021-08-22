@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Full-stack software developer. Professional mobile web developer, Android and Embedded system enthusiast.
+- 👀 Full-stack software developer. Specialize in full-stack mobile web development. Experience with native Android mobile development, cross-platform desktop
+- development and Zerynth's embedded IoT enthusiast.
 
 - 💞️ I’m looking to collaborate on Java/Spring REST web service project, Typescript/Angular web application projects.
 
