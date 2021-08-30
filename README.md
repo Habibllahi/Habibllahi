@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Full-stack software developer. Specialize in full-stack mobile web development. Experience with native Android mobile development and Zerynth's embedded IoT development.
+- 👀 Full-stack software developer | Mobile Web Specialist
 
-- 💞️ I’m looking to collaborate on Java/Spring REST web service project, Typescript/Angular web application projects.
+- 💞️ I professionalize on Spring/Java and Angular/Typescript stacks for server and client sides respectively.
 
 <!---
 Habibllahi/Habibllahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub proYou can click the Preview link to take a look at your changes.
