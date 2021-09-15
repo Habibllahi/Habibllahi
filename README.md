@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Full-stack software developer | Mobile Web Specialist | Android developer | Desktop developer | IoT developer
+- 👀 Full-stack software developer | Mobile Web developer (Junior) | IoT enthusiast
 
 - 💞️ I professionalize on Spring/Java and Angular/Typescript stacks for server and client sides respectively.
 
