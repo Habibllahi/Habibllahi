@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Habibllahi
-- 👀 Full-stack software developer | Mobile Web developer 
+- 👀 Full-stack software developer | Mobile Web Specialist 
 
-- 💞️ I professionalize on Spring & Angular frameworks for fullstack end-end mobile web application developement using Monolythic/Microservice architecture.
-
-- I am an hobbyist Android and JavaFX application developer and 3D animation enthusiast.
-- Talk of Web3, I enjoy Ethereum blockchain integration with Web3J/Web3JS Library.
+- 💞️ I'm a software Engineer. I currently work with Spring | Angular | Hilla | ExpressJS. 
+- My Niche is fullstack mobile web development with Spring & Angular framework. 
+-  I work with Linux computer.
 <!---
 Habibllahi/Habibllahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub proYou can click the Preview link to take a look at your changes.
 --->
