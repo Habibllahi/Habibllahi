@@ -2,7 +2,7 @@
 - 💞️ I'm a fullstack mobile Web developer. 
 - My professional skills are Spring | Hilla | Angular | ExpressJS. 
 - My Niche skill is web service development with Spring framework. 
-- My Hobby skill are Android | JavaFX
+- My Hobby skills are Android | JavaFX
 - I work with Linux computer.
 - I am proficient in Java | Kotlin | Typescript programming languages
 <!---
