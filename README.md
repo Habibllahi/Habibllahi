@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Habibllahi
-- 💞️ I'm a fullstack Java and Web developer. 
-- I currently work with Spring | Angular | Android | JavaFX. 
-- My Niche is web service development with Spring framework. 
+- 💞️ I'm a fullstack mobile Web developer. 
+- My professional skills are Spring | Hilla | Angular | ExpressJS. 
+- My Niche skill is web service development with Spring framework. 
+- My Hobby skill are Android | JavaFX
 - I work with Linux computer.
 - I am proficient in Java | Kotlin | Typescript programming languages
 <!---
