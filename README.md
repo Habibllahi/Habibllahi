@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Habibllahi
 - 💞️ I'm a fullstack mobile Web developer. 
-- My professional skills are Spring | Hilla | Angular | ExpressJS. 
+- My professional skills are Spring | Angular. 
 - My Niche skill is web service development with Spring framework. 
 - My Hobby skills are Android | JavaFX
 - I work with Linux computer.
